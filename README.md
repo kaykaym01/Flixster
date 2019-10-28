@@ -20,6 +20,12 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
+
+### App Walkthough GIF
+
+<img src=walkthrough_p2.gif width=250><br>
+
+
 ## Flixster Part 1
 
 ### User Stories
@@ -38,7 +44,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src=walkthrough.gif width=250><br>
+<img src=walkthrough_p1.gif width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
